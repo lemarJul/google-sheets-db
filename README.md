@@ -1,8 +1,8 @@
-# Google Sheet DB
+# Google Sheets DB
 
 ## Table of Contents
 
-- [Google Sheet DB](#google-sheet-db)
+- [Google Sheets DB](#google-sheets-db)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Getting Started](#getting-started)
